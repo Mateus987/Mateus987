@@ -9,7 +9,7 @@
 - 🤝 Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
 
 
-- 🔥 Objetivo: Me tornar um desenvolvedor Full-Stack reconhecido.
+- 🔥  Objetivo: Me tornar um desenvolvedor Full-Stack reconhecido.
 
 
 - ⚡ Sobre mim: **Extremamente comunicativo e empático, procuro fazer a diferença no mercado de T.I com essas minhas características!**
