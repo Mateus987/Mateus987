@@ -11,6 +11,7 @@
 
 - ⚡ Sobre mim: **Extremamente comunicativo e empático, procuro fazer a diferença no mercado de T.I com essas minhas características!**
 
+- 🔥 Objetivo: Me tornar um desenvolvedor Full-Stack reconhecido.
 *****
 
 <div>
