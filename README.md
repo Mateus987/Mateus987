@@ -1,4 +1,17 @@
-## Oii , Eu sou o Mateus ☺️
+
+<h3 align="center">Oii , Eu sou o Mateus 😊 </h3>
+
+----------------------------------------------
+
+- 🌱 Estou aprendendo **ReactJS, NodeJS e Flutter**
+
+
+- 🤝 Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
+
+
+- ⚡ Sobre mim: **Extremamente comunicativo e empático, procuro fazer a diferença no mercado de T.I com essas minhas características!**
+
+*****
 
 <div>
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus987&show_icons=true&theme=synthwave&include_all_commits=true">
