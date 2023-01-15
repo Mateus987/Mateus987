@@ -2,7 +2,7 @@
 
 <div>
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus987&show_icons=true&theme=synthwave&include_all_commits=true">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus987&layout=compact&&theme=synthwave">
+  <img align="center" height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus987&layout=compact&&theme=synthwave">
 </div>
 
 <div style="display: inline_block"><br>
