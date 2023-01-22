@@ -16,7 +16,7 @@
 
 *****
 
-Portfólio: https://mateus987.github.io/portfolio/
+**Portfólio: https://mateus987.github.io/portfolio/
 
 <div>
   <img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mateus987&show_icons=true&theme=synthwave&include_all_commits=true">
