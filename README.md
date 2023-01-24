@@ -20,7 +20,7 @@
 
 <div>
   <img align="center" height="110" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mateus987&show_icons=true&theme=synthwave&include_all_commits=true">
-  <img align="center" height="90" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateus987&layout=compact&&theme=synthwave">
+  <img align="center" height="100" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateus987&layout=compact&&theme=synthwave">
   
 </div>
 
