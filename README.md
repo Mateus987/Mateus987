@@ -1,9 +1,9 @@
 
-<h3 align="center">Oii , Eu sou o Mateus 😊 </h3>
+<h3 align="center">Olá , Eu sou o Mateus 😊 </h3>
 
 ----------------------------------------------
 
-- 🌱 Estou aprendendo **ReactJS, NodeJS e PHP**
+- 🌱 Estou aprendendo **ReactJS, NodeJS e PHP
 
 
 - 🤝 Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
