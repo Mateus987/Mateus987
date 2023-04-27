@@ -3,7 +3,7 @@
 
 ----------------------------------------------
 
-- 🌱 Estou aprendendo **ReactJS, NodeJS e PHP
+- 🌱 Estou aprendendo **ReactJS, NodeJS e PHP**
 
 
 - 🤝 Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
