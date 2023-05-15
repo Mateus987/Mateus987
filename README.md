@@ -4,7 +4,7 @@
 - 📖 Estou aprendendo **ReactJS, NodeJS e PHP**
 
 
-- 🤝 Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
+- 🤝 **Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação
 
 
 - 🔥  Objetivo: **Me tornar um desenvolvedor Full-Stack reconhecido**
