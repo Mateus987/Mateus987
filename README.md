@@ -1,3 +1,10 @@
+<style>
+    body {
+        background-image: url('giphy.gif');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
 
   <h4 align="center">Olá , Meu nome é Mateus 😊 </h4>
 
