@@ -1,4 +1,3 @@
-<div style="background-image: url('giphy.gif'); background-size: cover;">
 
   <h4 align="center">Olá , Meu nome é Mateus 😊 </h4>
 
@@ -35,4 +34,3 @@
     <a href="https://www.linkedin.com/in/mateus-dos-santos-de-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
-</div>
