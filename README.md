@@ -1,6 +1,6 @@
   ## Olá , Meu nome é Mateus 😊
 <br>
-  <a href=”https://www.linkedin.com/in/mateus-dos-santos-de-andrade/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
   
   - 📖 Estou aprendendo **ReactJS, NodeJS e PHP**
 
