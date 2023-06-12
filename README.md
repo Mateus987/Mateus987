@@ -1,6 +1,7 @@
   ## Olá , Meu nome é Mateus 😊
 <br>
-  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href=" "><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href=" "><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   - 📖 Estou aprendendo **ReactJS, NodeJS e PHP**
 
