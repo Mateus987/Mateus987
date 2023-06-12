@@ -2,12 +2,11 @@
 <br>
   <a href=" "><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href=" "><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=" "><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   - 📖 Estou aprendendo **ReactJS, NodeJS e PHP**
 
-
   - 🤝 **Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação**
-
 
   - 🔥  Objetivo: **Me tornar um desenvolvedor Full-Stack reconhecido**
   .
