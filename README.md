@@ -16,13 +16,6 @@
 
   - 🔥  Objetivo: **Me tornar um desenvolvedor Full-Stack reconhecido**
 
-
-  <div>
-    <img align="center" height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mateus987&show_icons=true&theme=synthwave&include_all_commits=true">
-    <img align="center" height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mateus987&layout=compact&&theme=synthwave">
-
-  </div>
-
   <div align="center"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
