@@ -15,7 +15,7 @@
 
   - 🔥  Objetivo: **Me tornar um desenvolvedor Full-Stack reconhecido**
     
- <h2 align="center"><a href="https://mateus987.github.io/portfolio/" target="_blank"> < Portfólio /> </a></h2>
+ <h2 align="center"><a href="https://mateus987.github.io/portfolio/" target="_blank"> < Personal Site /> </a></h2>
 
   <div align="center"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
