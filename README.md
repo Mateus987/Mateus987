@@ -8,13 +8,14 @@
   <a href="https://api.whatsapp.com/send?phone=5514997147086&text=Ol%C3%A1%20Mateus,%0Atudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
- <h2 align="center"><a href="https://mateus987.github.io/portfolio/" target="_blank"> < Portfólio /> </a></h2>
 
   - 📖 Estou aprendendo **ReactJS, NodeJS e PHP**
 
   - 🤝 **Estou procurando ajudar estudantes, assim como eu, em relação ao conhecimento sobre programação**
 
   - 🔥  Objetivo: **Me tornar um desenvolvedor Full-Stack reconhecido**
+    
+ <h2 align="center"><a href="https://mateus987.github.io/portfolio/" target="_blank"> < Portfólio /> </a></h2>
 
   <div align="center"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
