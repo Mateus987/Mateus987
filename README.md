@@ -11,9 +11,9 @@
 
   - 📖 Im learning Back-End | Front-End | DSA | System Design  
 
-  - 🤝 **Im looking for oporttunites to make my knowledge useful**
+  - 🤝 **Im looking for opportunites to make my knowledge useful**
 
-  - 🔥  Goal: **Become a good programmer**
+  - 🔥  Goal: **Become a great programmer**
     
  <h2 align="center"><a href="https://mateus987.github.io/portfolio/" target="_blank"> < Personal Site /> </a></h2>
 
