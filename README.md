@@ -5,11 +5,7 @@
   <font color="green">l</font>
   <font color="blue">o</font>
   <font color="indigo"> </font>
-  <font color="violet">W</font>
-  <font color="pink">o</font>
-  <font color="cyan">r</font>
-  <font color="lime">l</font>
-  <font color="magenta">d</font>
+  <font color="magenta">🌎</font>
   <font color="gold">!!")</font>
   <br><br>
 </h1>
