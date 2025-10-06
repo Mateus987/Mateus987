@@ -59,7 +59,7 @@
 
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
-  <img height="40" width="40" src="https://t.ctcdn.com.br/qqE37bdroiS85Drl1z1ncfxV5ys=/600x600/smart/i468900.jpeg" alt="Linux">
+  <img height="40" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
   
 
