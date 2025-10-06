@@ -1,5 +1,5 @@
 <h1 align="center">
-  <font color="red">H</font>
+  <font color="red">print("H</font>
   <font color="orange">e</font>
   <font color="yellow">l</font>
   <font color="green">l</font>
@@ -10,7 +10,7 @@
   <font color="cyan">r</font>
   <font color="lime">l</font>
   <font color="magenta">d</font>
-  <font color="gold">!!</font>
+  <font color="gold">!!")</font>
   <br><br>
 </h1>
 
