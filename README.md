@@ -12,7 +12,7 @@ Would you like to connect and share ideas?
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 0;" width="400">
+    <td style="border: 0;" width="225">
       <img width="100%" src="https://c.tenor.com/0hjOGLFaQa0AAAAd/tenor.gif" />
     </td>
     <td style="border: 0; vertical-align: top; padding-left: 20px;">
