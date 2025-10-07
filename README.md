@@ -1,82 +1,72 @@
-<h1 align="center">
-  <font color="red">print("H</font>
-  <font color="orange">e</font>
-  <font color="yellow">l</font>
-  <font color="green">l</font>
-  <font color="blue">o</font>
-  <font color="indigo"> </font>
-  <font color="magenta">🌎</font>
-  <font color="gold">!!")</font>
-  <br><br>
-</h1>
+## Hello World!! I'm Mateus dos Santos de Andrade! 👋
 
-<div align="center">
-  <a href="https://www.instagram.com/mah_san.an/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-dos-santos-de-andrade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+I'm passionate about technology and constantly looking to improve myself as a developer.  
+Currently learning Back-End | Front-End | DSA | System Design and always seeking opportunities to make my knowledge useful.  
+My goal is simple: Become a great programmer.
 
- <br><br> 📖 Learning **Back-End | Front-End | DSA | System Design**  
-  🤝 Looking for **opportunities to make my knowledge useful**  
-  🔥 Goal: **Become a great programmer**
-  
-</div>
+Would you like to connect and share ideas?  
+📩 You can contact me at: mateus09233@gmail.com  
+🌐 Or check out my portfolio: [mateus987.github.io/portfolio](https://mateus987.github.io/portfolio/)
 
-<h2 align="center">
-  <a href="https://mateus987.github.io/portfolio/" target="_blank"> &lt; Personal Site /&gt; </a>
-</h2>
+---
 
-<div align="center"><br>
-
-<!-- Linguagens -->
-  <h4>Linguagens:</h4>
-  <img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0;" width="400">
+      <img width="100%" src="https://c.tenor.com/0hjOGLFaQa0AAAAd/tenor.gif" />
+    </td>
+    <td style="border: 0; vertical-align: top; padding-left: 20px;">
+      <p>
+        💡 "The mind that opens to a new idea will never return to its original size."  
+        <i>— Albert Einstein</i>
+      </p>
+      <h3>🔗 Where to find me:</h3>
+      <ul>
+        <li>📷 <a href="https://www.instagram.com/mah_san.an/" target="_blank">Instagram</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/mateus-dos-santos-de-andrade/" target="_blank">LinkedIn</a></li>
+        <li>📬 <a href="mailto:mah_san.an@hotmail.com">Email me</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
-  
-  <br><br>
+---
 
-  <!-- Frameworks -->
-  <h4>Frameworks:</h4>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel">
-  <img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="Flask">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
-  <img height="40" width="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js">
+## 🛠️ Tech Stack
 
+### 💻 Languages:
+<p>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="PHP">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart">
+</p>
 
-  <br><br>
+### 🚀 Frameworks & Libraries:
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel">
+  <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="Flask">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
+  <img height="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js">
+</p>
 
-  <!-- Ferramentas -->
-  <h4>Ferramentas:</h4>
+### 🔧 Tools:
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+  <img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+</p>
 
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
-  <img height="40" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="Linux">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-  
+---
 
-</div>
+## 📊 GitHub Stats
 
-<br>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Mateus987&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus987&layout=compact&theme=tokyonight) |
+| :-: | :-: |
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mateus987&show_icons=true&theme=tokyonight"
-    alt="Mateus GitHub stats"
-  />
-  <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus987&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</div>
-
-<br>
+---
