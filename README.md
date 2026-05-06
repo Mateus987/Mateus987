@@ -73,4 +73,6 @@ Would you like to connect and share ideas?
 
 ---
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313p5f2amt6nfcl6upwk2bhzowhy&cover_image=true&theme=novatorem)](https://open.spotify.com/user/313p5f2amt6nfcl6upwk2bhzowhy)
+## 🎧 O que estou ouvindo agora
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313p5f2amt6nfcl6upwk2bhzowhy&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=313p5f2amt6nfcl6upwk2bhzowhy&redirect=true)
+
