@@ -1,4 +1,4 @@
-## Hello World!! I'm Mateus dos Santos de Andrade! 👋
+## Hello World!! I'm Mateus! 👋
 
 I'm passionate about technology and constantly looking to improve myself as a developer.  
 Currently learning Back-End | Front-End | DSA | System Design and always seeking opportunities to make my knowledge useful.  
@@ -73,4 +73,4 @@ Would you like to connect and share ideas?
 
 ---
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Mateus987&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=Mateus987&redirect=true)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=Mateus987)](https://open.spotify.com/user/Mateus987)
