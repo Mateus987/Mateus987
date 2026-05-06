@@ -73,4 +73,4 @@ Would you like to connect and share ideas?
 
 ---
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=Mateus987)](https://open.spotify.com/user/Mateus987)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=313p5f2amt6nfcl6upwk2bhzowhy&cover_image=true&theme=novatorem)](https://open.spotify.com/user/313p5f2amt6nfcl6upwk2bhzowhy)
