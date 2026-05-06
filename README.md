@@ -72,3 +72,5 @@ Would you like to connect and share ideas?
 | :-: | :-: |
 
 ---
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Mateus987&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=Mateus987&redirect=true)
