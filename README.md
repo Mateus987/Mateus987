@@ -22,7 +22,7 @@ Would you like to connect and share ideas?
       </p>
       <h3>🔗 Where to find me:</h3>
       <ul>
-        <li>📷 <a href="https://www.instagram.com/mah_san.an/" target="_blank">Instagram</a></li>
+      
         <li>💼 <a href="https://www.linkedin.com/in/mateus-dos-santos-de-andrade/" target="_blank">LinkedIn</a></li>
         <li>📬 <a href="mailto:mah_san.an@hotmail.com">Email me</a></li>
       </ul>
