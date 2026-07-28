@@ -20,13 +20,7 @@ Would you like to connect and share ideas?
         💡 "The mind that opens to a new idea will never return to its original size."  
         <i>— Albert Einstein</i>
       </p>
-      <h3>🔗 Where to find me:</h3>
-      <ul>
-      
-        <li>💼 <a href="https://www.linkedin.com/in/mateus-dos-santos-de-andrade/" target="_blank">LinkedIn</a></li>
-        <li>📬 <a href="mailto:mah_san.an@hotmail.com">Email me</a></li>
-      </ul>
-    </td>
+   
   </tr>
 </table>
 
